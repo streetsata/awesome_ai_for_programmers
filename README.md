@@ -94,6 +94,12 @@ Improved test name example (step by step):
 """
 ```
 
+In triple backticks I send you a code that need to be teste
+
+```cs
+
+```
+
 ### Промпт-тюнинг
 
 Полезные дополнения к любым промптам
